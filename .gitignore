@@ -1,0 +1,6 @@
+*.cache
+*.gz
+*.exe
+tmp
+*.idea
+*.vscode
